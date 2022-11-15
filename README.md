@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayank Raj</h1>
 <h3 align="center">Learning Js & a passionate Competitive Programmer</h3>
-<style>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-raj3&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-raj3" /> </p>
 <img class="img.rounded-corners" align="right" alt="Coding" width="400"   src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" > 
