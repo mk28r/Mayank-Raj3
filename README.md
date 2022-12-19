@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/mynk28nov" target="blank"><img src="https://img.shields.io/twitter/follow/mynk28nov?logo=twitter&style=for-the-badge" alt="mynk28nov" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
-- **CodeChef**   - 2⭐ (max rating: 1522 )
+- **CodeChef**   - 2⭐ (max rating: 1582 )
 - **Codeforces** - currently grinding
 - 📫 How to reach me **mynk.code.28@gmail.com**
 
