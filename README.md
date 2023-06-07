@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 - **CodeChef**   - 2⭐ (max rating: 1582 )
-- **Codeforces** - currently grinding
+- **Codeforces** - Nobie 😪(max rating : 1175)
 - 📫 How to reach me **mynk.code.28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
