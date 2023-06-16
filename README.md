@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 - **CodeChef**   - 2⭐ (max rating: 1599 )
-- **Codeforces** - Nobie 😪(max rating : 1175)
+- **Codeforces** - Nobie 😪(max rating : 1182)
 - 📫 How to reach me **mynk.code.28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
