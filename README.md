@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-raj3&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-raj3" /> </p>
 <img class="img.rounded-corners" align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" > 
-<p align="left"> <a href="https://twitter.com/mynk28nov" target="blank"><img src="https://img.shields.io/twitter/follow/mynk28nov?logo=twitter&style=for-the-badge" alt="mynk28nov" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/mynk28nov?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 - **CodeChef**   - 2⭐ (max rating: 1599 )
