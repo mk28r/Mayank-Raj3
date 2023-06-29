@@ -1,29 +1,108 @@
+
+
 <a href="https://git.io/typing-svg" align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Mayank+Raj%2C" alt="Typing SVG" /></a>
+<h3 align="center">A passionate coder and a budding software developer .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-raj3&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-raj3" /> </p>
-<img class="img.rounded-corners" align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" > 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/mynk28nov?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+![](https://komarev.com/ghpvc/?username=Mayank-Raj3&color=red&style=flat-square) 
 
-- 🌱 I’m currently learning **JavaScript**
-- **CodeChef**   - 2⭐ (max rating: 1599 )
-- **Codeforces** - Nobie 😪(max rating : 1182)
-- 📫 How to reach me **mynk.code.28@gmail.com**
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mynk28nov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mynk28nov" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayank-raj-b5871b1b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-raj-b5871b1b9" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mayank28nov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayank28nov" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/l0r0u0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mynk28nov" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mynk28nov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mynk28nov" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mynk28nov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mynk28nov" height="30" width="40" /></a>
-</p>
+- 👨🏽‍💻 I’m currently working on **Full-Stack Projects**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🏋🏼‍♂️ I’m currently learning **Data Structures and Algorithms & CP**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-raj3&show_icons=true&locale=en&layout=compact" alt="mayank-raj3" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-raj3&" alt="mayank-raj3" /></p>
+- 🌏 I’m looking to collaborate on **Web Development Projects**
+
+- 🤝 I’m looking for **Internships in Web Development/Software Development**
+
+- 💬 I'm well versed with **C++, DSA**
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-raj-b5871b1b9/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/mk28nv)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/L0R0U0)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/mynk28nov/practice)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/mayank28nov)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/?hr_r=1)
+
+
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+ 
+## 👨🏽‍💻 LeetCode Stats:
+
+<div align="center">
+ 
+![LeetCode Stats](https://leetcode.card.workers.dev/mk28nv?theme=auto&font=baloo&extension=null)
+ 
+</div>
+
+
+## 🏋🏼‍♂️ Codeforces Stats:
+
+<div align="center">
+ 
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=L0R0U0)
+ 
+</div>
+
+## 📊 GitHub Stats:
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Mayank-Raj3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Raj3&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Raj3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+ 
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Mayank-Raj3&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+## 🔝 Top Contributed Repo
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=Mayank-Raj3&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+<div align="center">
 
 ![snake gif](https://github.com/Mayank-Raj3/Mayank-Raj3/blob/output/github-contribution-grid-snake.svg)
+
+ </div>
+ 
 
