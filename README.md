@@ -73,7 +73,7 @@
 
 <div align="center">
  
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=L0R0U0)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=)
  
 </div>
 
