@@ -60,7 +60,8 @@
 
 <div align="center">
  
-![LeetCode Stats](https://leetcode.card.workers.dev/TIME2LIVE?theme=auto&font=baloo&extension=null)
+#![LeetCode Stats](https://leetcode.card.workers.dev/TIME2LIVE?theme=auto&font=baloo&extension=null)
+[![TIME2LIVE's LeetCode Stats](https://coding-profile.vercel.app/api?username=TIME2LIVE&theme=Light)](https://github.com/Pranshu321/coding-profiles)
  
 </div>
 
