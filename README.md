@@ -60,7 +60,7 @@
 
 <div align="center">
  
-![LeetCode Stats](https://leetcode.card.workers.dev/mk28r?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/TIME2LIVE?theme=auto&font=baloo&extension=null)
  
 </div>
 
