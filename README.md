@@ -1,7 +1,5 @@
 
 
-<a href="" align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Mayank+Raj%2C" alt="Typing SVG" /></a>
-<h3 align="center">A passionate coder and a budding software developer .</h3>
 
 ![](https://komarev.com/ghpvc/?username=Mayank-Raj3&color=red&style=flat-square) 
 
