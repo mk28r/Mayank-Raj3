@@ -47,7 +47,7 @@
 <div align="center">
 <!-- ![LeetCode Stats](https://leetcode.card.workers.dev/mynk28nv?theme=auto&font=baloo&extension=null) --> 
 
-[![mynk28nv's LeetCode Stats](https://coding-profile.vercel.app/api?username=mynk28nv&theme=Light)](https://github.com/Pranshu321/coding-profiles)
+![Mayank's Leetcode](https://leetcard.jacoblin.cool/mynk28nv?ext=contest)
  
 
 ## 📊 GitHub Stats:
